@@ -10,4 +10,4 @@
 
 <div align="center" style="border-radius:10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKAmois&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="paurussy502"></div><br>
 
-- Personal website [link](https://www.0xabdulkhalid.ml)
+
