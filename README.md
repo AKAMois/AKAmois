@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RPG Simple Game with JS for learning**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript and PHP**
 
 - 📫 How to reach me **akacrewmois@gmail.com**
 
