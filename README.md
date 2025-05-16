@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akamois&label=Profile%20views&color=0e75b6&style=flat" alt="akamois" /> </p>
 
-- 🔭 I’m currently working on **RPG Simple Game with JS for learning**
+- 🔭 I’m currently working on **API REST-TODOLIST**
 
-- 🌱 I’m currently learning **JavaScript and PHP**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **akacrewmois@gmail.com**
 
