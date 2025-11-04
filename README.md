@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akamois&label=Profile%20views&color=0e75b6&style=flat" alt="akamois" /> </p>
 
-- 🔭 I’m currently working on **API REST-TODOLIST**
+- 🔭 I’m currently studying web application development
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning several programming languages, especially I focus on **CSS, Java, PHP and Javascript**
 
-- 📫 How to reach me **akacrewmois@gmail.com**
+- 📫 How to reach me **diegomenfer31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
