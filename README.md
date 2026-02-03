@@ -30,6 +30,3 @@
 - **[RPG-GAME-JS](https://github.com/AKAMois/RPG-GAME-JS)**
 ---
 
-## 📊 GitHub Stats
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKAMois&show_icons=true&theme=radical)
