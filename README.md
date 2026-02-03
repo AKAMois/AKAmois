@@ -1,22 +1,37 @@
-<h1 align="center">Hi 👋, I'm Diego Menendez</h1>
-<h3 align="center">A passionate programmer from Spain</h3>
+# Hi, I'm Diego 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akamois&label=Profile%20views&color=0e75b6&style=flat" alt="akamois" /> </p>
+💻 **Web Developer / DAW Student**  
+🎯 Passionate about building web applications and learning new technologies  
+📜 Programming and software development certifications  
+📫 Contact me: [LinkedIn](https://www.linkedin.com/in/diego-menendez-fernandez/) | [Email](mailto:diegomenfer31@gmail.com)
 
-- 🔭 I’m currently studying web application development
+---
 
-- 🌱 I’m currently learning several programming languages, especially I focus on **CSS, Java, PHP and Javascript**
+## 🛠️ Skills & Technologies
 
-- 📫 How to reach me **diegomenfer31@gmail.com**
+### ✅ Proficient
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/_aka_mois_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aka_mois_" height="30" width="40" /></a>
-</p>
+### 🚀 Learning / In Progress
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akamois&show_icons=true&locale=en&layout=compact" alt="akamois" /></p>
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akamois&show_icons=true&locale=en" alt="akamois" /></p>
+- **[Project 1](https://github.com/AKAMois/project1)
+- **[Project 2](https://github.com/AKAMois/project2)
+- **[Project 3](https://github.com/AKAMois/project3)
+
+---
+
+## 📊 GitHub Stats
+
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKAMois&show_icons=true&theme=radical)
