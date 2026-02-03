@@ -26,10 +26,8 @@
 
 ## 🚀 Featured Projects
 
-- **[Project 1](https://github.com/AKAMois/project1)
-- **[Project 2](https://github.com/AKAMois/project2)
-- **[Project 3](https://github.com/AKAMois/project3)
-
+- **[todo-api](https://github.com/AKAMois/todo-api)**
+- **[RPG-GAME-JS](https://github.com/AKAMois/RPG-GAME-JS)**
 ---
 
 ## 📊 GitHub Stats
