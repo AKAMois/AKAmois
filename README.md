@@ -29,5 +29,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - **[todo-api](https://github.com/AKAMois/todo-api)**
 - **[RPG-GAME-JS](https://github.com/AKAMois/RPG-GAME-JS)**
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
