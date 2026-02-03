@@ -1,4 +1,5 @@
-# Hi, I'm Diego 👋
+<h1 align="center">Hi, I'm <a href="https://www.blackcater.win/" target="_blank">Diego/a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 💻 **Web Developer / DAW Student**  
 🎯 Passionate about building web applications and learning new technologies  
